@@ -1,5 +1,21 @@
 # @backstage/frontend-app-api
 
+## 0.3.0-next.0
+
+### Minor Changes
+
+- 68fc9dc60e: Added the ability to configure bound routes through `app.routes.bindings`. The routing system used by `createApp` has been replaced by one that only supports route refs of the new format from `@backstage/frontend-plugin-api`. The requirement for route refs to have the same ID as their associated extension has been removed.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.3.0-next.0
+  - @backstage/plugin-graphiql@0.2.56-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/core-app-api@1.11.1-next.0
+  - @backstage/config@1.1.1
+
 ## 0.2.0
 
 ### Minor Changes

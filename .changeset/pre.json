@@ -252,5 +252,17 @@
     "@backstage/plugin-vault-backend": "0.3.11",
     "@backstage/plugin-xcmetrics": "0.2.44"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1697546670",
+    "eighty-chairs-camp",
+    "fair-parrots-lick",
+    "hungry-paws-dress",
+    "hungry-radios-play",
+    "modern-ducks-battle",
+    "ninety-numbers-study",
+    "stale-rice-count",
+    "tender-maps-type",
+    "tricky-cups-hammer",
+    "violet-lamps-appear"
+  ]
 }

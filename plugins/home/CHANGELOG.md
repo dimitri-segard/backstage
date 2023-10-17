@@ -1,5 +1,18 @@
 # @backstage/plugin-home
 
+## 0.5.10-next.0
+
+### Patch Changes
+
+- 3fdffbb699: Remove the duplicate versions of `@rjsf/*` as they're no longer needed
+- Updated dependencies
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/plugin-home-react@0.1.5-next.0
+  - @backstage/core-app-api@1.11.1-next.0
+  - @backstage/config@1.1.1
+
 ## 0.5.9
 
 ### Patch Changes

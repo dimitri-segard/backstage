@@ -1,5 +1,17 @@
 # @backstage/plugin-user-settings
 
+## 0.7.12-next.0
+
+### Patch Changes
+
+- 68fc9dc60e: Updated alpha exports according to routing changes in `@backstage/frontend-plugin-api`.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.3.0-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/core-app-api@1.11.1-next.0
+
 ## 0.7.11
 
 ### Patch Changes

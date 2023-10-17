@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs-module-addons-contrib
 
+## 1.1.2-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/integration-react@1.1.21-next.0
+  - @backstage/plugin-techdocs-react@1.1.13-next.0
+
 ## 1.1.1
 
 ### Patch Changes

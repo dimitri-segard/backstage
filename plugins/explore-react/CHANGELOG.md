@@ -1,5 +1,12 @@
 # @backstage/plugin-explore-react
 
+## 0.0.33-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-plugin-api@1.8.0-next.0
+
 ## 0.0.32
 
 ### Patch Changes

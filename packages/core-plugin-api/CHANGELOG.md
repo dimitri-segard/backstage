@@ -1,5 +1,18 @@
 # @backstage/core-plugin-api
 
+## 1.8.0-next.0
+
+### Minor Changes
+
+- cb6db75bc2: Introduced `AnyRouteRefParams` as a replacement for `AnyParams`, which is now deprecated.
+
+### Patch Changes
+
+- cb6db75bc2: Deprecated several types related to the routing system that are scheduled to be removed, as well as several fields on the route ref types themselves.
+- 68fc9dc60e: Added a new `/alpha` export `convertLegacyRouteRef`, which is a temporary utility to allow existing route refs to be used with the new experimental packages.
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 1.7.0
 
 ### Minor Changes

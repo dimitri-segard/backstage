@@ -1,5 +1,18 @@
 # @backstage/core-components
 
+## 0.13.7-next.0
+
+### Patch Changes
+
+- 7bdc1b0a12: Fixed compatibility with Safari <16.3 by eliminating RegEx lookbehind in `extractInitials`.
+
+  This PR also changed how initials are generated resulting in _John Jonathan Doe_ => _JD_ instead of _JJ_.
+
+- Updated dependencies
+  - @backstage/core-plugin-api@1.8.0-next.0
+  - @backstage/plugin-catalog-react@1.8.6-next.0
+  - @backstage/config@1.1.1
+
 ## 0.13.6
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.13.1-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-kubernetes-common@0.7.1-next.0
+  - @backstage/config@1.1.1
+  - @backstage/integration-aws-node@0.1.7
+  - @backstage/plugin-kubernetes-node@0.1.1-next.0
+
 ## 0.13.0
 
 ### Minor Changes

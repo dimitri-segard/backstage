@@ -1,5 +1,13 @@
 # @backstage/plugin-user-settings-backend
 
+## 0.2.5-next.0
+
+### Patch Changes
+
+- dd0350379b: Added dependency on `@backstage/config`
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 0.2.4
 
 ### Patch Changes

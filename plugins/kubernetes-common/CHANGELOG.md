@@ -1,5 +1,12 @@
 # @backstage/plugin-kubernetes-common
 
+## 0.7.1-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-plugin-api@1.8.0-next.0
+
 ## 0.7.0
 
 ### Minor Changes

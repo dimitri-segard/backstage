@@ -1,5 +1,15 @@
 # @backstage/plugin-tech-radar
 
+## 0.6.10-next.0
+
+### Patch Changes
+
+- 68fc9dc60e: Updated alpha exports according to routing changes in `@backstage/frontend-plugin-api`.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.3.0-next.0
+  - @backstage/core-components@0.13.7-next.0
+  - @backstage/core-plugin-api@1.8.0-next.0
+
 ## 0.6.9
 
 ### Patch Changes

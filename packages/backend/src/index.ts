@@ -76,7 +76,7 @@ import { metrics } from '@opentelemetry/api';
 // Expose opentelemetry metrics using a Prometheus exporter on
 // http://localhost:9464/metrics . See prometheus.yml in packages/backend for
 // more information on how to scrape it.
-const exporter = new PrometheusExporter();
+const exporter = new PrometheusExporter({ prefix: 'backstage' });
 const meterProvider = new MeterProvider();
 metrics.setGlobalMeterProvider(meterProvider);
 meterProvider.addMetricReader(exporter);
